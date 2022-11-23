@@ -1,5 +1,10 @@
 ## Olá, fique a vontade para me contatar 👋
+Em rumo ao FullStack.
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusR224&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+## 🚀 Sobre mim
+Eu sou uma pessoa que sempre se interessou pela área da tecnologia, e foi na programação que eu vi o caminho que mais se combinava comigo, e é por isso que estou sempre se aperfeiçoando e buscando por mais conhecimento.
 
 ## 🧰 Linguagens e Ferramentas
 <div style="display: inline_block">
@@ -7,7 +12,8 @@
 <img align="center"alt="javascript"src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"height="30">
 <img align="center"alt="my_sql"src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"height="30">
 <img align="center"alt="mic.net"src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png"height="30">
-<img align="center"alt="mic.net"src="https://miro.medium.com/max/591/1*4HIU0YdDkj0dmGySVC5D_g.png"height="30">
+<img align="center"alt="EF.net"src="https://miro.medium.com/max/591/1*4HIU0YdDkj0dmGySVC5D_g.png"height="30">
+<img align="center"alt="mic.net"src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png"height="30">
 </div>
 
 ## Meios de contato

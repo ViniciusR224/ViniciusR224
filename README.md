@@ -1,10 +1,8 @@
 ## Olá, fique a vontade para me contatar 👋
-Em rumo ao FullStack.
+"Almost full stack, but on budget"
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusR224&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-## 🚀 Sobre mim
-Eu sou uma pessoa que sempre se interessou pela área da tecnologia, e foi na programação que eu vi o caminho que mais se combinava comigo, e é por isso que estou sempre se aperfeiçoando e buscando por mais conhecimento.
 
 ## 🧰 Linguagens e Ferramentas
 <div style="display: inline_block">
